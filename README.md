@@ -3,11 +3,10 @@
 Экран авторизации с использованием SwiftUI, Combine и CustomTextField.
 
 
-# Скриншоты
+# Превью
 
 
-<img src="https://i.postimg.cc/50V4PZDZ/Simulator-Screen-Shot-i-Phone-14-Pro-2024-04-09-at-01-57-06.png" width="300"/> <img src="https://i.postimg.cc/rFdBrfPW/Simulator-Screen-Shot-i-Phone-14-Pro-2024-04-09-at-01-57-34.png" width="300" />
-<img src="https://i.postimg.cc/q7pDjwj1/Simulator-Screen-Shot-i-Phone-14-Pro-2024-04-09-at-01-57-58.png" width="300" />
+<img src="https://i.postimg.cc/50V4PZDZ/Simulator-Screen-Shot-i-Phone-14-Pro-2024-04-09-at-01-57-06.png" width="240"/> <img src="https://i.postimg.cc/rFdBrfPW/Simulator-Screen-Shot-i-Phone-14-Pro-2024-04-09-at-01-57-34.png" width="240" /> <img src="https://i.postimg.cc/q7pDjwj1/Simulator-Screen-Shot-i-Phone-14-Pro-2024-04-09-at-01-57-58.png" width="240" />
 
 
 
